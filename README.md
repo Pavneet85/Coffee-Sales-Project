@@ -1,6 +1,6 @@
 # Coffee Shop Sales Project
 
-### Dashboard Link : 
+### Dashboard Link : https://github.com/user-attachments/assets/6d3e6104-e065-4d16-8a67-50b50e63f797
 
 ## Problem Statement
 
@@ -443,6 +443,8 @@ The final Heat Map will be represented as follows:
  # Report Snapshot (Power BI DESKTOP)
 
 ![CS Final Dashboard](https://github.com/user-attachments/assets/a9585cff-5966-41e9-b194-c9ed66b03459)
+
+
 # Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
@@ -485,7 +487,6 @@ Following inferences can be drawn from the dashboard;
     c) Hot  Chocolate
     d) Gourmet Coffee
     e) Brewed Black Tea
-
 
  ### Top Products by Product Category:
 
